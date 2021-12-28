@@ -1,3 +1,3 @@
-# Data Visualization with Python
+## Data Visualization with Python
 
-In this repository, I use a combination of matplotlib, numPy and pandas to visualize a couple different datasets and portray a less complex story.
+<i>In this repository, I use a combination of matplotlib, numPy and pandas to visualize a couple different datasets and portray a less complex story.</i>
